@@ -662,7 +662,7 @@ export class AssignmentTexterContact extends React.Component {
       button = (
         <RaisedButton
           onTouchTap={this.handleClickCloseContactButton}
-          label="Skip Reply"
+          label="Skip"
         />
       );
     }
